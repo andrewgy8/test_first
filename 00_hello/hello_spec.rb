@@ -112,7 +112,8 @@
 #     def greet(who)
 #       "Hello, #{who}!"
 #     end
-#
+
+
 require "hello"
 
 describe "the hello function" do
